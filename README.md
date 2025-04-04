@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peleschku
-- 👀 I’m interested in VFX, LLMs, video games, and cats!
+- 👀 I’m interested in VFX, UI/UX design, web dev, video games, and cats!
 
 
 <!---
